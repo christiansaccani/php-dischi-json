@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+
+    background-color: #1d2d3c;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+section {
+    display: flex;
+    flex-flow: row wrap;
+    width: 50vw;
+    row-gap: 1em;
+    justify-content: space-around;
+}
+
+.my_card {
+    border: 5px solid #EDADB4;
+    background-color: #112030;
+    color: #ffffff;
+}
