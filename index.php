@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SpotiDiscc</title>
+    <title>SpotiDisc</title>
 
     <!-- bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
@@ -20,7 +20,7 @@
 <body>
 <div id="app">
 
-    <h1>SpotiDisco</h1>
+    <h1>SpotiDisc</h1>
 
     <section>
         <div v-for="currentDisc in discList" class="card mb-4 text-center my_card" style="width: 18rem;">
@@ -39,5 +39,3 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
-
-<!-- !DEVO USCIRE A DARE DELLE LEZIONI, PER TANTO FINIRO' L'ESERCIZIO IN SERATA! -->

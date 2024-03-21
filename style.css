@@ -20,6 +20,7 @@ section {
 
 .my_card {
     border: 5px solid #EDADB4;
+    border-radius: 12px;
     background-color: #112030;
     color: #ffffff;
 }

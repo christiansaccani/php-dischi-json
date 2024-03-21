@@ -1,44 +1,44 @@
 [
     {
-        "title": "New Jersey",
-        "author": "Bon Jovi",
-        "year": 1988,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/51sBr4IWDwL.jpg",
-        "genre": "Rock"
+        "title": "Perception",
+        "author": "NF",
+        "year": 2017,
+        "poster": "https://m.media-amazon.com/images/I/713VZ3I1O-L._AC_SX522_.jpg",
+        "genre": "HipHop"
     },
     {
-        "title": "Live at Wembley 86",
-        "author": "Queen",
-        "year": 1992,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/71g40mlbinL._SX355_.jpg",
-        "genre": "Pop"
+        "title": "Pop a Lot",
+        "author": "Sik-K",
+        "year": 2023,
+        "poster": "https://media.cdnws.com/_i/209718/10876/3488/79/sik-k-pop-a-lot-cover.jpeg",
+        "genre": "R&B"
     },
     {
-        "title": "Ten\"s Summoner\"s Tales",
-        "author": "Sting",
-        "year": 1993,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/411BQR6BHRL.jpg",
-        "genre": "Pop"
+        "title": "Death Race for Love",
+        "author": "Juice WRLD",
+        "year": 2019,
+        "poster": "https://m.media-amazon.com/images/I/715fMEsH0qL._AC_UL320_.jpg",
+        "genre": "Trap"
     },
     {
-        "title": "Steve Gadd band",
-        "author": "Steve Gadd Band",
+        "title": "Native",
+        "author": "One Republic",
+        "year": 2013,
+        "poster": "https://m.media-amazon.com/images/I/71DAKI0tEtL._AC_UL320_.jpg",
+        "genre": "Pop Rock"
+    },
+    {
+        "title": "Beerbongs & Bentleys",
+        "author": "Post Malone",
         "year": 2018,
-        "poster": "https://m.media-amazon.com/images/I/81UtLzBDoEL._SS500_.jpg",
-        "genre": "Jazz"
+        "poster": "https://m.media-amazon.com/images/I/81DzVOtW+kL._AC_UL320_.jpg",
+        "genre": "Trap"
     },
     {
-        "title": "Brave new World",
-        "author": "Iron Maiden",
-        "year": 2000,
-        "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Iron_Maiden_-_Brave_New_World.jpg",
-        "genre": "Metal"
-    },
-    {
-        "title": "One more car, one more rider",
-        "author": "Eric Clapton",
+        "title": "The Eminem Show",
+        "author": "Eminem",
         "year": 2002,
-        "poster": "https://images-na.ssl-images-amazon.com/images/I/81MDAIdh78L._SY355_.jpg",
-        "genre": "Rock"
+        "poster": "https://m.media-amazon.com/images/I/61jxguiMreL._AC_UL320_.jpg",
+        "genre": "Rap"
     }
 ]
